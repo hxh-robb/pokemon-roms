@@ -1,0 +1,35 @@
+102 ICON "Icon_1.ico"
+
+
+1 VERSIONINFO
+FILEVERSION 0,7,2048,96
+PRODUCTVERSION 0,7,2048,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "041104B0"
+	{
+		VALUE "Comments", "Game Boy / Game Boy COLOR Emulator"
+		VALUE "CompanyName", "T's Emulator Laboratry Inc."
+		VALUE "FileDescription", "TGB Dual"
+		VALUE "FileVersion", "0, 7, 2048, 096"
+		VALUE "InternalName", "TGB_Dual"
+		VALUE "LegalCopyright", "Copyright (C) Hii 2000-2001, Mitchell Mebane 2001"
+		VALUE "LegalTrademarks", "TGB Dual (R)"
+		VALUE "OriginalFilename", "TGB_Dual.exe"
+		VALUE "PrivateBuild", ""
+		VALUE "ProductName", " TGB Dual Last Ver."
+		VALUE "ProductVersion", "0, 7, 2048, 0"
+		VALUE "SpecialBuild", "Unofficial English 7.2048-0.96"
+		VALUE "Translator", "Mitchell "The Khan Artist" Mebane"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0411 0x04B0
+}
+}
+
